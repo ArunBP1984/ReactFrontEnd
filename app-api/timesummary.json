@@ -1,0 +1,47 @@
+[
+	{
+		"Portfolio": "Core Midstream Porfolio Applications",
+		"SubType": "No LTO constraints",
+		"Invest": 28,
+		"Tolerate": 5,
+		"Migrate": 0,
+		"Eliminate": 0,
+		"Total": 33
+	},
+	{
+		"Portfolio": "Core Midstream Porfolio Applications",
+		"SubType": "LTO constraint but not in the next 2 years",
+		"Invest": 6,
+		"Tolerate": 10,
+		"Migrate": 9,
+		"Eliminate": 0,
+		"Total": 25
+	},
+	{
+		"Portfolio": "Core Midstream Porfolio Applications",
+		"SubType": "LTO constraint within the next 2 years",
+		"Invest": 6,
+		"Tolerate": 6,
+		"Migrate": 4,
+		"Eliminate": 2,
+		"Total": 18
+	},
+	{
+		"Portfolio": "Other Midstream Portfolio Applications",
+		"SubType": "Supporting Midstream Applications",
+		"Invest": 28,
+		"Tolerate": 17,
+		"Migrate": 4,
+		"Eliminate": 0,
+		"Total": 49
+	},
+	{
+		"Portfolio": "Other Midstream Portfolio Applications",
+		"SubType": "Non Midstream Applications (in a Midstream Portfolio)",
+		"Invest": 34,
+		"Tolerate": 26,
+		"Migrate": 7,
+		"Eliminate": 0,
+		"Total": 67
+	}
+]

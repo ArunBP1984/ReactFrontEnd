@@ -1,0 +1,19 @@
+[
+	 {
+		"name" : "WinDMS",
+		"sname" : "WinDMS",
+		"description" : "WinDMS is a high critical logistics system for the logistic secondary transport. It is used to calculate the fuels volume and the truck routing to deliver fuels to retails sites. This This instance is used by 15 countries. It covers Vendor Management of Inventory (VMI), creation of orders (Non VMI), credit check of orders and it supports the haulier payment process. It is being able to receive the site fuels inventory and sales data and being able to work out through its algorithms when, how much and what products at a site is required. Additionally the truck routing is calculated via geographical maps. This application instance is used as 'Software as a Service' and completely provided by the vendor 'Lomosoft'. It is accessed by the users via Remote App (RDP). Therefore there are no BP internal CI's available",
+		"region" : "ESA/ASPAC",
+		"id" : "SPKG0000595",
+		"app_type" : "Midstream - Core",
+		"LTO_constaints" : "Critical",
+		"EoSL" : "Orange",
+		"EoSL_mitigation" : "Planned",
+		"SNOWStatus" : "Active",
+		"ITService" : "ESA: Terminal Interfaces & Secondary Logistics",
+		"Portfolio" : "Midstream Europe and South Africa",
+		"TIME" : "Migrate",
+		"CIARating" : "FDD",
+		"Rationalisation" : "Replace with global Secondary logistics 2.0  platform"
+	}
+]

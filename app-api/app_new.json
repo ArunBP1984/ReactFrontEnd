@@ -1,0 +1,48 @@
+[
+
+    {
+       "name" : "Biztalk Server(ANZ)",
+       "sname" : "BizTalk",
+       "description" : "Microsoft BizTalk server. Used as a  service for interfaces between internal and external services.",
+       "region" : "AsPAC",
+       "id": "SPKG0000220",
+       "EoSL" : "RED",
+       "SNOWStatus" : "Active",
+       "ITService" : "Midstream AsPAC and Shared Services",
+       "Portfolio": "Midstream AsPAC and Shared Services",
+       "ServiceOwner" : "Marcus Civelle",
+       "TIME" : "Eliminate",
+       "CIARating" : "FGE"
+    },
+    
+    {
+      "name" : "Fuel Insights App",
+      "sname" : "FIA",
+      "description" : "The Fuel Insights App (FIA) provides a common operating model and a series of workflows supporting activities relating to fuel movement. These include: self-serve analytics, grade out analysis, scheduling helper, automated alerting & alert management, automated reporting, terminal downtime modelling, performance monitoring, management reporting and a Retail Territory Manager (RTM) view. The app will be developed within the Palantir Foundry Platform",
+      "region" : "ESA/AsPAC",
+      "id": "SPKG0032925",
+      "EoSL" : "GREEN",
+      "SNOWStatus" : "Active",
+      "ITService" : "ESA: Terminal Interfaces & Secondary Logistics",
+      "Portfolio": "Midstream Europe and South Africa",
+      "ServiceOwner" : "Ramon Schiller",
+      "TIME" : "Invest",
+      "CIARating" : "FFF"
+    },
+    
+    {
+      "name" : "BioLC Platform",
+       "sname" : "Bioverse",
+       "description" : "The BioLC Platform is a digital solution that provides BP users the capabilities to ensure regulator compliance, deliver efficiencies, forecasting & optimisation, while allowing the Business to scale.",
+       "region" : "Global",
+       "id": "SPKG0030741",
+       "EoSL" : "GREEN",
+       "SNOWStatus" : "Active",
+       "ITService" : "Biofuels Valuestream",
+       "Portfolio": "Biofuels and Low Carbon",
+       "ServiceOwner" : "Ameya Kashalkar",
+       "TIME" : "Invest",
+       "CIARating" : "EEF"
+    }
+ 
+]

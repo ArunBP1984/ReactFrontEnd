@@ -1,0 +1,65 @@
+[
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Existing Core Applications",
+		"Status": "Midstream - Active",
+		"Current": 71.0,
+		"Interim": 64.0,
+		"Target": 46.0,
+		"Change": -25.0
+	},
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Strategic Deployments",
+		"Status": "Midstream - Deployment",
+		"Current": null,
+		"Interim": 9.0,
+		"Target": 12.0,
+		"Change": 12.0
+	},
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Supporting Applications",
+		"Status": "Midstream - Supporting",
+		"Current": 54.0,
+		"Interim": 54.0,
+		"Target": 47.0,
+		"Change": -7.0
+	},
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Applications realigned to Midstream (from Turkey Retail)",
+		"Status": "Realign to Midstream - Active",
+		"Current": null,
+		"Interim": 5.0,
+		"Target": null,
+		"Change": null
+	},
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Non Midstream Applications in Midstream Portfolio",
+		"Status": "Non Midstream - Active",
+		"Current": 68.0,
+		"Interim": null,
+		"Target": null,
+		"Change": -68.0
+	},
+	{
+		"Portfolio": "Midstream Portfolio applications",
+		"SubPortfolio": "Total Midstream Portfolio Applications",
+		"Status": null,
+		"Current": 193.0,
+		"Interim": 132.0,
+		"Target": 105.0,
+		"Change": -88.0
+	},
+	{
+		"Portfolio": "bp enterprise and shared applications (other Portfolios)",
+		"SubPortfolio": "Core applications used by Midstream",
+		"Status": "Shared - Active",
+		"Current": 57.0,
+		"Interim": 50.0,
+		"Target": 43.0,
+		"Change": -14.0
+	}
+]
