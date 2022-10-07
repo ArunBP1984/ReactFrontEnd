@@ -1,0 +1,22 @@
+/*  src/PageHeader.css  */
+.PageHeader {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: rgb(153, 204, 0);
+    color: #fff;
+  }
+
+  .right{
+    text-align: right;
+    display: block;
+    justify-content: right;
+    align-items: right;
+    margin: auto;
+    align-items: right;
+    width: 60%;
+  }

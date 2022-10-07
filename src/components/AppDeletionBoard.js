@@ -7,7 +7,7 @@ const AppDeletionBoard = () => {
     const [applications, setApplications] = useState([]);
   
     const fetchData = () => {
-        axios.get("http://192.168.1.105:3080/api/delapps")
+        axios.get("http://192.168.1.105:3001/api/delapps")
         .then((response) => {
             setApplications(response.data);
             console.log(response.data);

@@ -31,7 +31,7 @@ const EoSLBoard = () => {
   
    
     const fetchDataAppDetailsForSearch = (userInput) => {
-        axios.get("http://192.168.1.105:3080/api/eosl?name="+userInput)
+        axios.get("http://192.168.1.105:3001/api/eosl?name="+userInput)
         .then((response) => {
             setApplications(response.data);
             console.log(response.data);

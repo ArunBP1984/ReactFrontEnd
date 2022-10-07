@@ -1,0 +1,9 @@
+
+.PageFooter {
+    background-color: gray;
+    text-align: center;
+    margin-top: auto;
+    display: flex;
+    padding: 8px;
+    position: bottom;
+  }

@@ -7,7 +7,7 @@ const TIMERatings = () => {
     const [results, setResults] = useState([]);
   
     const fetchData = () => {
-        axios.get("http://192.168.1.105:3080/api/time")
+        axios.get("http://192.168.1.105:3001/api/time")
         .then((response) => {
             setResults(response.data);
             console.log(response.data);

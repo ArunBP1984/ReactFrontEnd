@@ -39,7 +39,7 @@ const DisplayBoard = () => {
     };
 
     const fetchDataAppDetailsForSearch = () => {
-        axios.get("http://192.168.1.105:3080/api/search?name="+userInput)
+        axios.get("http://192.168.1.105:3001/api/search?name="+userInput)
         .then((response) => {
             setApplications(response.data);
             console.log(response.data);
